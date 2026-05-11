@@ -20,7 +20,7 @@
 可以直接用浏览器打开 `index.html`。如果想用本地静态服务器：
 
 ```bash
-python -m http.server 8788
+npm run dev
 ```
 
 然后访问 `http://localhost:8788`。
